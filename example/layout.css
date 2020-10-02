@@ -18,7 +18,7 @@ body {
 
 #map1, #map2 {
     position: relative;
-    height: 50%;
+    height: 100%;
 }
 
 #map1 {
@@ -28,7 +28,7 @@ body {
 #sidebar {
     position: relative;
     float: left;
-    width: 400px;
+    width: 1px;
     background-color: #f7f7f7;
     border-right: 1px solid #CFCFCF;
     color: #505050;
